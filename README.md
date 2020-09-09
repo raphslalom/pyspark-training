@@ -15,6 +15,7 @@ Resources to learn how to manipulate dataframes using PySpark.
   ```bash
   mkdir repositories
   cd repositories
+  git config --global http.sslVerify false
   git clone https://github.com/raphslalom/pyspark-training.git
   ```
  
