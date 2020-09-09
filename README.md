@@ -29,7 +29,7 @@ Resources to learn how to manipulate dataframes using PySpark.
        
       2. Open Jupyter at [http://slalomdsvm:8888/](http://slalomdsvm:8888/) and navigate in the UI to open the notebook under `pyspark-training/module7/module7-pyspark-df-manipulations.ipynb`. (When you are done: close the spark session from the notebook, halt and quite the notebookfrom Jupyter,  use CTRL-C to terminate the  Jupyter server running on the VM).
 
- 4) Logout of the VM and hibernate it:
+ 5. Logout of the VM and hibernate it:
  
  ```bash
  logout
